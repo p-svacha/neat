@@ -1,0 +1,11 @@
+#top {
+	-fx-background-color: grey;
+}
+
+#controls {
+	-fx-background-color: lightgrey;
+}
+
+#fitness {
+	-fx-background-color: beige;
+}
